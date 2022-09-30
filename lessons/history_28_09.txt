@@ -1,0 +1,52 @@
+   0 date
+   1 cd /home/
+   2 ls
+   3 cat
+   4 ../
+   5 cd ../
+   6 cd bin/
+   7 ls
+   8 pwd
+   9 cd
+  10 date
+  11 date > date.txt
+  12 ls
+  13 cat date.txt
+  14 date >> date.txt
+  15 cat date.txt
+  16 df -h
+  17 clear
+  18 cat /etc/group
+  19 cat /etc/group | head
+  20 cat /etc/group | tail
+  21 cat /etc/group | tail -3
+  22 cat /etc/group | tail -3 | tail -1
+  23 cat /etc/group | tail -3 | tail -1 >> date.txt
+  24 cat date.txt
+  25 clear
+  26 cat /etc/group / wc
+  27 cat /etc/group | wc
+  28 wc --help
+  29 cat /etc/group | wc
+  30 cat /etc/group | head -1
+  31 cat /etc/group | grep root
+  32 cat /etc/group | grep root | tail -1
+  33 cat /etc/group | grep -w user2
+  34 df -h
+  35 df -h | grep /
+  36 /var
+  37 cd /var
+  38 df -h | grep -w /
+  39 pwd
+  40 df -h | grep -w / | awk '{print $5}'
+  41 df -h | grep -w / | awk '{print $5}' | sed 's/%/*/'
+  42 df -h | grep -w / | awk '{print $5}' | sed 's/%//'
+  43 cd
+  44 df -h | grep -w / | awk '{print $5}' | sed 's/%//' >> date.txt
+  45 cat date.txt
+  46 clear
+  47 df -h | grep -o 47
+  48 df -h | grep -o %
+  49 df -h
+  50 ls
+  51 history > history_28_09.txt
