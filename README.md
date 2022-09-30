@@ -1,8 +1,4 @@
 # TEL-RAN_Linux
-- [hw_21_09_22.txt](https://github.com/sl101/TEL-RAN_Linux/blob/main/homeworks/hw_21_09_22.txt)
- 
- ===========================================
- 
  
 - [hw_28_09_22.txt](https://github.com/sl101/TEL-RAN_Linux/blob/main/homeworks/hw_28_09_22.txt) 
 ###### NOTE TO HOMEWORK: 
@@ -14,3 +10,7 @@
 *и не была исполнена*
 
 ===========================================
+
+- [hw_21_09_22.txt](https://github.com/sl101/TEL-RAN_Linux/blob/main/homeworks/hw_21_09_22.txt)
+ 
+ ===========================================
