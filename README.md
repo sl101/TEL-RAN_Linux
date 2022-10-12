@@ -1,16 +1,21 @@
 # TEL-RAN_Linux
- 
-- [hw_28_09_22.txt](https://github.com/sl101/TEL-RAN_Linux/blob/main/homeworks/hw_28_09_22.txt) 
-###### NOTE TO HOMEWORK: 
 
-*команда дозаписи в файл* `cat .fscmd | tail -4 >> /opt/task/start.txt`
+- [hw_10_10.txt](https://github.com/sl101/TEL-RAN_Linux/blob/main/homeworks/hw_210_10.png)
 
-*привела к ошибке* `cat: read error: I/O error`
+===========================================
 
-*и не была исполнена*
+- [hw_28_09_22.txt](https://github.com/sl101/TEL-RAN_Linux/blob/main/homeworks/hw_28_09_22.txt)
+
+###### NOTE TO HOMEWORK:
+
+_команда дозаписи в файл_ `cat .fscmd | tail -4 >> /opt/task/start.txt`
+
+_привела к ошибке_ `cat: read error: I/O error`
+
+_и не была исполнена_
 
 ===========================================
 
 - [hw_21_09_22.txt](https://github.com/sl101/TEL-RAN_Linux/blob/main/homeworks/hw_21_09_22.txt)
- 
- ===========================================
+
+===========================================
