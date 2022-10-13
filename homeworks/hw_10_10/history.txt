@@ -1,0 +1,150 @@
+  879  export_file script.sh
+  880  cd
+  881  clear
+  882  top
+  883  clear
+  884  ps -ef
+  885  ps -ef | wc -l
+  886  ps -ef | grep ssh
+  887  pot
+  888  top
+  889  ps -ef
+  890  ps -ef | grep 32533
+  891  clear
+  892  ps -ef | grep ssh
+  893  kill 32191
+  894  cd /opt/41_42_evening
+  895  ls
+  896  top
+  897  clear
+  898  ps -ef
+  899  ps -ef | wc -l
+  900  ps -ef | grep ssh
+  901  kill 32161
+  902  kill 28596
+  903  kill 32165
+  904  kill 32192
+  905  kill 32499
+  906  /opt/
+  907  37_38_morning_b
+  908  cd /opt/37_38_morning_b/Zhevaha
+  909  ls -la
+  910  export_file chmodFile
+  911  export_file --help
+  912  --help
+  913  help
+  914  export chmodFile
+  915  export -fn chmodFile
+  916  export -p chmodFile
+  917  chmod u+r chmodFile
+  918  clear
+  919  ls -la
+  920  vim chmodFile
+  921  rm .chmodFile.swp
+  922  ls -la
+  923  rm .chmodFile.swo
+  924  ls -la
+  925  vim chmodFile
+  926  ls -la
+  927  rm .chmodFile.swp
+  928  ls -la
+  929  vim chmodFile
+  930  ls -la
+  931  vim chmodFile
+  932  export chmodFile
+  933  export -p chmodFile
+  934  export_file chmodFile
+  935  history >> history.txt
+  936  ls -la
+  937  rm history.txt.swp
+  938  rm .history.txt.swp
+  939  rm .chmodFile.swp
+  940  rm history.txt
+  941  ls -la
+  942  history tail 20 >> history.txt
+  943  history | tail -20
+  944  ls -la
+  945  export history.txt
+  946  export -p history.txt
+  947  export_file history.txt
+  948  help
+  949  export [history.txt]
+  950  ls -la
+  951  git init
+  952  git branch -m main
+  953  git status
+  954  git remote add origin https://github.com/sl101/TEL-RAN_Linux.git
+  955  git remote -v
+  956  rm history.txt
+  957  ls -la
+  958  mkdir hw_10_10
+  959  ls -la
+  960  mv chmodFile hw_10_10
+  961  ls -la
+  962  tree
+  963  ls -a
+  964  tree /
+  965  help
+  966  cd hw_10_10
+  967  ls -la
+  968  history | tail-50 >> history.txt
+  969  cat history.txt
+  970  vim history.txt
+  971  rm history.txt
+  972  history | tail -50 >> history.txt
+  973  cat history.txt
+  974  rm history.txt
+  975  history | tail -200 >> history.txt
+  976  cat history.txt
+  977  rm history.txt
+  978  history | tail -75 >> history.txt
+  979  cat history.txt
+  980  ls
+  981  cd ..
+  982  ls
+  983  ls -la
+  984  git remote -v
+  985  git status
+  986  git add .
+  987  git status
+  988  git commit -m "first commit"
+  989  git status
+  990  git push -u origin main
+  991  nana script.ch
+  992  nani script.sh
+  993  nano script.sh
+  994  top
+  995  ps -ef
+  996  wc -1
+  997  /opt/37_38_morning_b/Zhevaha
+  998  cd /opt/37_38_morning_b/Zhevaha
+  999  ls -la
+ 1000  git pull origin main
+ 1001  git config pull.rebase true
+ 1002  git status
+ 1003  ls -la
+ 1004  git pull origin main
+ 1005  cd hw_10_10
+ 1006  ls -la
+ 1007  ls -a
+ 1008  cd ..
+ 1009  git add .
+ 1010  git status
+ 1011  git commit -m "del swp"
+ 1012  git pull origin main
+ 1013  ls -la
+ 1014  vim .gitignore
+ 1015  cd homeworks
+ 1016  ls -la
+ 1017  rm hw_10_10.png
+ 1018  mv ../hw_10_10 ../homeworks
+ 1019  ls -la
+ 1020  cd hw_10_10
+ 1021  ls -la
+ 1022  rm history.txt
+ 1023  cd ../..
+ 1024  ls -la
+ 1025  vim README.md
+ 1026  history
+ 1027  ls -la
+ 1028  history | tail -150 >> homeworks/hw_10_10/history.txt
