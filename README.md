@@ -1,6 +1,6 @@
 # TEL-RAN_Linux
 
-- [hw_10_10](https://github.com/sl101/TEL-RAN_Linux/blob/main/homeworks/hw_10_10)
+- # [hw_10_10](https://github.com/sl101/TEL-RAN_Linux/blob/main/homeworks/hw_10_10)
 
 ===========================================
 
