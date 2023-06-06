@@ -1,0 +1,1000 @@
+    9  cd 221025/
+   10  mkdir temp_files
+   11  ls -l
+   12  nano taskOKSANA.sh
+   13  ./taskOKSANA.sh 
+   14  nano taskOKSANA.sh
+   15  ./taskOKSANA.sh 
+   16  nano taskOKSANA.sh
+   17  ./taskOKSANA.sh 
+   18  nano taskOKSANA.sh
+   19  ./taskOKSANA.sh 
+   20  ls -l
+   21  ls -l temp_files/
+   22  nano taskOKSANA.sh
+   23  ./taskOKSANA.sh 
+   24  nano taskOKSANA.sh
+   25  ./taskOKSANA.sh 
+   26  ls -l temp_files/
+   27  nano taskOKSANA.sh
+   28  ./taskOKSANA.sh 
+   29  ls -l temp_files/
+   30  rm -rf /221025
+   31  ls -l
+   32  rm -rf temp_files
+   33  ls -l temp_files/
+   34  ls -l
+   35  mkdir temp_files
+   36  ./taskOKSANA.sh 
+   37  ls -l temp_files/
+   38  nano taskOKSANA.sh
+   39  ./taskOKSANA.sh 
+   40  ls -l temp_files/
+   41  nano taskOKSANA.sh
+   42  ./taskOKSANA.sh 
+   43  ls -l temp_files/
+   44  rm -rf temp_files
+   45  ls -l temp_files/
+   46  ls -l
+   47  mkdir temp_files
+   48  ./taskOKSANA.sh 
+   49  ls -l temp_files/
+   50  crontab --help
+   51  crontab -l
+   52  w
+   53  crontab -l
+   54  crontab -r
+   55  crontab -l
+   56  crontab -e
+   57  crontab -l
+   58  ls -l temp_files/
+   59  rm -rf temp_files
+   60  ls -l temp_files/
+   61  mkdir temp_files
+   62  ls -l temp_files/
+   63  w
+   64  crontab -l
+   65  nano taskOKSANA.sh
+   66  ls -l temp_files/
+   67  ls
+   68  ls -l
+   69  cat history.txt
+   70  cd /opt
+   71  ls
+   72  cd /opt/43_44_evening_a/
+   73  ls
+   74  Mykytiuk/
+   75  cd /opt/43_44_evening_a/uvarova/
+   76  ls
+   77  ls -l
+   78  cd /opt/43_44_evening_a/Mykytiuk/
+   79  ls
+   80  cd /opt/43_44_evening_a/SvetlanaKraus/
+   81  ls
+   82  colorp
+   83  tar --help
+   84  crontab -l
+   85  cd /opt/37_38_MA/SergeyT/
+   86  ls
+   87  ls Task19_10/
+   88  git init
+   89  git add Task19_10/
+   90  git commit
+   91  git push git@github.com:SerhioT/HomeworkLinux.git
+   92  git push --set-upstream git@github.com:SerhioT/HomeworkLinux.git master
+   93  git push --set-upstream git@github.com:SerhioT/HomeworkLinux.git
+   94  git push master git@github.com:SerhioT/HomeworkLinux.git
+   95  git status
+   96  git commit
+   97  git push
+   98  git remote add master git@github.com:SerhioT/HomeworkLinux.git
+   99  git status
+  100  git push
+  101  git push --set-upstream master master
+  102  git push -u github master
+  103  git push -u https://github.com/SerhioT/HomeworkLinux.git
+  104  git push -u https://github.com/SerhioT/HomeworkLinux.git https://github.com/SerhioT/HomeworkLinux.git
+  105  git push -u  https://github.com/SerhioT/HomeworkLinux.git
+  106  git push -u git@github.com:SerhioT/HomeworkLinux.git
+  107  git remote add origin git@github.com:SerhioT/HWLinux.git
+  108  git status
+  109  git commit
+  110  git remote add origin git@github.com:SerhioT/HWLinux.git
+  111  git push -u git@github.com:SerhioT/HomeworkLinux.git
+  112  git push -u https://github.com/SerhioT/HomeworkLinux.git
+  113  git push -u git@github.com:SerhioT/HomeworkLinux.git
+  114  git remote add origin git@github.com:SerhioT/HWLinux.git
+  115  git branch -M main
+  116  git push -u origin main
+  117  git remote add origin git@github.com:SerhioT/HWLinux.git
+  118  pwd
+  119  ls
+  120  git push -u https://github.com/SerhioT/HomeworkLinux.git
+  121  w
+  122  locale
+  123  cat ~/.bashrc 
+  124  w
+  125  id
+  126  whoami
+  127  cat /etc/*release*
+  128  w
+  129  id
+  130  cat /etc/*release*
+  131  htop
+  132  df -h
+  133  ping 8.8.8.8
+  134  crontab -e
+  135  ping google.de
+  136  w
+  137  whoami
+  138  cat /etc/os-release
+  139  cat /etc/*release*
+  140  id
+  141  htop
+  142  df -h
+  143  ping
+  144  ping 8.8.8.8
+  145  crontab -e
+  146  w
+  147  id
+  148  whoami
+  149  >cat /etc/os/*release*
+  150  >cat /etc/*release*
+  151  >cat /etc/release
+  152  cat /etc/release
+  153  cat /etc/*release*
+  154  w
+  155  id
+  156  cat /etc/*release*
+  157  htop
+  158  df -h
+  159  ping ping 8.8.8.8
+  160  ping 8.8.8.8
+  161  crontab -e
+  162  cat /etc/*release*
+  163  id
+  164  htop
+  165  df -h
+  166  ping google.com
+  167  crontab -e
+  168  htop
+  169  df -h
+  170  ping
+  171  ping 8.8.8.8
+  172  crontab -e
+  173  exit
+  174  htop
+  175  df -h
+  176  ping
+  177  ping -t
+  178  ping 
+  179  ping -t 8.8.8.8
+  180  ping 8.8.8.8
+  181  ping 8.8.8.8 -t
+  182  ping 8.8.8.8 -s 128
+  183  crontab -e
+  184  exit
+  185  crontab -e
+  186  exit
+  187  w
+  188  clear
+  189  id
+  190  cat /etc/*release*
+  191  htop
+  192  df -h
+  193  ping googl.com
+  194  ping 8.8.8.8
+  195  crontab -e
+  196  exit
+  197  w
+  198  id
+  199  cat /etc/os-release
+  200  htop
+  201  df -h
+  202  ping 8.8.8.8
+  203  crontab -e
+  204  exit
+  205  cd /opt/37_38MA/SergeyT/Task19_10
+  206  cd /opt/37_38MA/SergeyT/
+  207  pwd
+  208  clear
+  209  crontab --help
+  210  crontab -l
+  211  cd /opt/37_38_morning_b
+  212  pwd
+  213  ls
+  214  cd /opt/37_38_morning_b/Kelbas
+  215  pwd
+  216  touch /opt/37_38_morning_b/Kelbas/script.sh /opt/37_38_morning_b/Kelbas/output.txt
+  217  ls
+  218  echo -e '#!/bin/bash\n date
+  219  echo -e '#!/bin/bash\n date\n echo "it works!"'
+  220  cat /opt/37_38_morning_b/Kelbas/script.sh
+  221  pwd
+  222  echo -e '#!/bin/bash\n date\n echo "it works!"'
+  223  chmod 744 /opt/37_38_morning_b/Kelbas/script.sh
+  224  ls
+  225  pwd
+  226  ls
+  227  nano output.txt
+  228  exit
+  229  ls
+  230  cd /opt
+  231  ls
+  232  cd 37_38_morning_b/
+  233  ls
+  234  cd EninAleksandr/
+  235  ls
+  236  pwd
+  237  touch /opt/37_38_morning_b/EninAleksandr/script.sh /opt/37_38_morning_b/EninAleksandr/output.txt
+  238  echo -e '#!/bin/bash\n date\n echo "it works!"'
+  239  echo -e '#!/bin/bash\n date\n echo "it works!"' >> /opt/37_38_morning_b/EninAleksandr/script.sh 
+  240  pwd
+  241  ls
+  242  chmod 744 script.sh 
+  243  ls
+  244  cat output.txt 
+  245  clear
+  246  ls
+  247  cat output.txt 
+  248  clear
+  249  df -h
+  250  crontab --help
+  251  crontab -l
+  252  crontab -r
+  253  env
+  254  export EDITOR=vi
+  255  crontab -e
+  256  export EDITOR=nano
+  257  clear
+  258  export EDITOR=nano
+  259  cd /opt/37_38_morning_b/
+  260  ls
+  261  mkdir chumak
+  262  touch /opt/37_38_morning_b/chumak/script.sh /opt/37_38_morning_b/chumak/output.txt
+  263  echo -e '#!/bin/bash\n date\n echo "it works!"'
+  264  echo -e '#!/bin/bash\n date\n echo "it works!"' >> /opt/37_38_morning_b/chumak/script.sh
+  265  cat /opt/37_38_morning_b/chumak/script.sh
+  266  chmod 744 /opt/37_38_morning_b/chumak/script.sh
+  267  ls /opt/37_38_morning_b/chumak/
+  268  crontab -e
+  269  top
+  270  ps -ef | grep ssh
+  271  clear
+  272  crontab -e
+  273  cat /opt/37_38_morning_b/chumak/output.txt 
+  274  cat /var/spool/mail/ec2-user
+  275  clear
+  276  cat /opt/37_38_morning_b/chumak/output.txt 
+  277  crontab -e
+  278  env
+  279  vim
+  280  df -h
+  281  crontab --help
+  282  crontab -l
+  283  cd /opt/37_38_morning_b/Zhevaha
+  284  ls
+  285  touch script.sh
+  286  touch output.txt
+  287  ls
+  288  echo -e '#!/bin/bas\n date\n echo "its works!"' >> script.sh
+  289  ls -la
+  290  cat script.sh
+  291  chmod 744 script.sh
+  292  ls -la
+  293  ps -ef
+  294  clear
+  295  ls -la
+  296  ./script.sh
+  297  nano script.sh
+  298  ./script.sh
+  299  exit
+  300  crontab --help
+  301  crontab -l
+  302  cd opt
+  303  cd /opt
+  304  ls
+  305  cd 37_38_morning_b
+  306  ls
+  307  cd vasilev
+  308  touch output.txt
+  309  ls
+  310  touch script.sh
+  311  ls
+  312  echo -e '#!/bin/bash\n echo "it works!"'
+  313  echo -e '#!/bin/bash\n date\n echo "it works!"'
+  314  cat script.sh
+  315  echo -e '#!/bin/bash\n date\n echo "it works!"'>> script.sh 
+  316  cat script.sh
+  317  chmod 744 script.sh 
+  318  ls
+  319  crontab -e
+  320  ls
+  321  cat output.txt 
+  322  -user
+  323  cat script.sh
+  324  -h
+  325  df -h
+  326  crontab --help
+  327  crontab -l
+  328  cd /opt/37_38_morning_b/
+  329  ls
+  330  cd /opt/37_38_morning_b/Viktar
+  331  ls
+  332  pwd
+  333  touch /opt/37_38_morning_b/Viktar/script.sh 
+  334  pwd
+  335  ls
+  336  touch /opt/37_38_morning_b/Viktar/output.txt
+  337  ls
+  338  echo -e '#/bin/bash\n date\n echo ït work!"' >>/opt/37_38_morning_b/Viktar//script.sh
+  339  cat /opt/37_38_morning_b/Viktar/script.sh 
+  340  chmod 744 /opt/37_38_morning_b/Viktar/script.sh 
+  341  ls/opt/37_38_morning_b/Viktar/
+  342  ls
+  343  ls /opt/37_38_morning_b/Viktar/
+  344  crontab -e
+  345  nano /opt/37_38_morning_b/Viktar/script.sh 
+  346  crontab -e
+  347  cat /opt/37_38_morning_b/kizilpinar/script.sh
+  348  cat /opt/37_38_morning_b/kizilpinar/output.txt
+  349  crontab -e
+  350  cat /opt/37_38_morning_b/kizilpinar/output.txt
+  351  exit
+  352  crontab -l
+  353  cd /opt/37_38_MA/molchanova/221025/
+  354  ls
+  355  ls -l temp_files/
+  356  rm -rf temp_files/
+  357  ls
+  358  crontab --help
+  359  crontab -l
+  360  cd /opt/37_38_morning_b
+  361  ls
+  362  mkdir Muntian
+  363  ls
+  364  cd Muntian
+  365  pwd
+  366  touch output.txt
+  367  echo -e '#!/bin/bash\n date\n echo "it works"'
+  368  echo -e '#!/bin/bash\n date\n echo "it works"' >> script.sh
+  369  cat script.sh 
+  370  chmod 744 script.sh 
+  371  ls
+  372  tar --help
+  373  date >> /tmp/1.txt
+  374  crontab 
+  375  crontab --help
+  376  clear
+  377  crontab -l
+  378  clear
+  379  w
+  380  whoami
+  381  id
+  382  cat /etc/*release*
+  383  top
+  384  w
+  385  id
+  386  cat/etc/os-release
+  387  cat/etc/*os-release*
+  388  cat /etc/*release*
+  389  w
+  390  whoami
+  391  cat /etc/*release*
+  392  w
+  393  id
+  394  whoami
+  395  cat /etc/os-releas*release*
+  396  cat /etc/os-releas*release
+  397  os-releasos-releas
+  398  os-releas
+  399  cat /ect/*release*
+  400  cat /etc/*release*
+  401  cd /opt/37_38_morning_b/
+  402  mkdir nurzada
+  403  cd /opt/37_38_morning_b/nurzada/script.sh /opt/37_38_morning_b/nurzada/output.txt
+  404  ls
+  405  htop
+  406  df -h
+  407  dg -h
+  408  df -h
+  409  ping
+  410  cd
+  411  cd /opt
+  412  ls -la
+  413  cd /opt/37_38_MA/Skiba/
+  414  nano /opt/37_38_MA/Skiba/taskSkiba.sh
+  415  mkdir /opt/37_38_MA/1
+  416  ls 
+  417  mkdir /opt/37_38_MA/Skiba/1
+  418  ls
+  419  chmod 744 taskSkiba.sh 
+  420  nano /opt/37_38_MA/Skiba/taskSkiba.sh
+  421  ./taskSkiba.sh 
+  422  nano /opt/37_38_MA/Skiba/taskSkiba.sh
+  423  ./taskSkiba.sh 
+  424  nano /opt/37_38_MA/Skiba/taskSkiba.sh
+  425  ./taskSkiba.sh 
+  426  nano /opt/37_38_MA/Skiba/taskSkiba.sh
+  427  ./taskSkiba.sh 
+  428  nano /opt/37_38_MA/Skiba/taskSkiba.sh
+  429  ./taskSkiba.sh 
+  430  nano /opt/37_38_MA/Skiba/taskSkiba.sh
+  431  ./taskSkiba.sh 
+  432  nano /opt/37_38_MA/Skiba/taskSkiba.sh
+  433  ./taskSkiba.sh 
+  434  ls -la /opt/37_38_MA/Skib
+  435  ls -la /opt/37_38_MA/Skiba
+  436  cat scritp.sh 
+  437  cat sleeper.sh 
+  438  ./sleeper.sh 
+  439  nano /opt/37_38_MA/Skiba/taskSkiba.sh
+  440  ./taskSkiba.sh 
+  441  date+"%H%M%S"
+  442  date
+  443  date+"%T"
+  444  date+%T
+  445  date --help
+  446  data+'%t"
+  447  date --help
+  448  data+'%t"
+  449  date --help
+  450  data+"T"
+  451  data+"%T"
+  452  data+%T
+  453  data+"%h%m%s
+  454  data+"%h%m%s"
+  455  data + "%T"
+  456  data+"%d%m%y"
+  457  data
+  458  vim ~/.ssh/authorized_keys
+  459  cd /opt/43_44_evening_a/
+  460  ls
+  461  mkdir lilit
+  462  ls
+  463  cd
+  464  cd /opt/43_44_evening_a/lilit/
+  465  ls
+  466  exit
+  467  cd /opt/37_38_MA/Skiba/
+  468  ls
+  469  data
+  470  date
+  471  date+"%T"
+  472  ./
+  473  date +"%H%M%S"
+  474  nano taskSkiba.sh 
+  475  ./taskSkiba.sh 
+  476  nano taskSkiba.sh 
+  477  ./taskSkiba.sh 
+  478  nano taskSkiba.sh 
+  479  ./taskSkiba.sh 
+  480  rm /opt/37_38_MA/Skiba/1/*
+  481  ls /opt/37_38_MA/Skiba/1
+  482  nano taskSkiba.sh 
+  483  ./taskSkiba.sh 
+  484  cronotab -l
+  485  cronotab -I
+  486  crontab -I
+  487  crontab -L
+  488  crontab -l
+  489  ./taskSkiba.sh 
+  490  nano taskSkiba.sh 
+  491  ./taskSkiba.sh 
+  492  nano taskSkiba.sh 
+  493  ./taskSkiba.sh 
+  494  ls -la
+  495  rm /opt/37_38_MA/Skiba/1/*
+  496  ./taskSkiba.sh 
+  497  cd /opt/37_38_MA/Skiba/1
+  498  ls -la
+  499  crontab -l
+  500  df -h
+  501  crontab --help
+  502  crontab -l
+  503  cd /opt/37_38_morning_b
+  504  ls
+  505  touch /opt/37_38_morning_b/kizilpinar/script.sh  /opt/37_38_morning_b/kizilpinar/output.txt
+  506  echo -e '#!/bin/bash\ndate\necho"it works!"'
+  507  echo -e '#!/bin/bash\ndate\necho"it works!"' >> /opt/37_38_morning_b/kizilpinar/script.sh
+  508  cat /opt/37_38_morning_b/kizilpinar/script.sh
+  509  chmod 744 /opt/37_38_morning_b/kizilpinar/script.sh
+  510  ls
+  511  ls /opt/37_38_morning_b/kizilpinar/script.sh 
+  512  ls /opt/37_38_morning_b/kizilpinar
+  513  crontab -e
+  514  cat /opt/37_38_morning_b/kizilpinar/output.txt 
+  515  cat /opt/37_38_morning_b/kizilpinar/script.sh 
+  516  nano /opt/37_38_morning_b/kizilpinar/script.sh
+  517  cat /opt/37_38_morning_b/kizilpinar/output.txt 
+  518  pwd
+  519  cd
+  520  cd /opt
+  521  ls
+  522  cd /43_44_evening_a
+  523  cd 43_44_evening_a
+  524  ls
+  525  mkdir kiselevski
+  526  ls
+  527  cd /opt/
+  528  ls
+  529  cd 37_38_morning_b/Zhevaha
+  530  echo -e '#!/bin/bash\nfor loop in {1..10}\ndo\ntouch \${loop}data +\"%H:%M:%S\"\ndone' >> taskSlava.sh
+  531  ls -la
+  532  ./taskSlava.sh
+  533  chmod 744 taskSlava.sh
+  534  ls -la
+  535  nano taskSlava.sh
+  536  ./taskSlava.sh
+  537  ls -la
+  538  nano script.sh
+  539  nano taskSlava.sh
+  540  ./taskSlava.sh
+  541  ls -la
+  542  nano taskSlava.sh
+  543  ./taskSlava.sh
+  544  ls -la
+  545  rm +"%H:%M:%S"
+  546  rm -rf +"%H:%M:%S"
+  547  ls -la
+  548  rm -f +"%H:%M:%S"
+  549  ls -la
+  550  rm -f +"%H:%M:%S"}
+  551  ls -la
+  552  rm -f +"%H:%M:%S"
+  553  ls -la
+  554  pf -ef
+  555  ps -ef
+  556  rm -f +"%H:%M:%S"
+  557  ls -la
+  558  rm +"%H:%M:%S"
+  559  rm +'%H:%M:%S'
+  560  rm +\"%H:%M:%S\"
+  561  ls -la
+  562  rm +\"%H:%M:%S\"}
+  563  ls -la
+  564  rm ${${loop}data
+  565  ls -la
+  566  rm -f \${\${loop}data
+  567  ls -la
+  568  rm -f \${loop}data
+  569  ls -la
+  570  rm -f \${loop}data +\"%H:%M:%S\"
+  571  ls -la
+  572  rm -f ${loop}data +"%H:%M:%S"
+  573  ls -la
+  574  rm -f \${loop}data+\"%H:%M:%S\"
+  575  ls -la
+  576  rm -f \${loop}data +\"%H:%M:%S\"
+  577  ls -la
+  578  rm -f \\${loop}data +\\"%H:%M:%S\\"
+  579  ls -la
+  580  rm \${loop}data +\"%H:%M:%S\"
+  581  rm \${loop}data\ +\"%H:%M:%S\"
+  582  rm \\${loop}data\ +\\"%H:%M:%S\\"
+  583  rm \${loop}data\ +\\"%H:%M:%S\\"
+  584  rm \${loop}data\ +\"%H:%M:%S\"
+  585  rm -f \${loop}data+\"%H:%M:%S/\"
+  586  ls -la
+  587  rm \${loop}data\ +\"%H:%M:%S\"
+  588  rm \${loop}data\ +\"%H:%M:%S\"'
+  589  rm '\${loop}data\ +\"%H:%M:%S\"'
+  590  rm '${loop}data +"%H:%M:%S"'
+  591  rm '\${loop}data\ +\"%H:%M:%S\"'
+  592  rm '\${loop}data +\"%H:%M:%S\"'
+  593  ls -la
+  594  nano taskSlava.sh
+  595  ./taskSlava.sh
+  596  ls -la
+  597  rm '\${loop}data +\"%H:%M:%S\"'
+  598  rm '${loop}data +"%H:%M:%S"'
+  599  ls -la
+  600  nano taskSlava.sh
+  601  ./taskSlava.sh
+  602  ls -la
+  603  rm +%H:%M:%S
+  604  ls -la
+  605  rm 1data
+  606  rm 2data
+  607  rm 3data
+  608  ls -la
+  609  nano taskSlava.sh
+  610  ./taskSlava.sh
+  611  ls -la
+  612  rm 3date
+  613  rm 2date
+  614  rm 1date
+  615  rm +%H:%M:%S
+  616  ls -la
+  617  nano taskSlava.sh
+  618  ./taskSlava.sh
+  619  ls -la
+  620  rm +%H:%M:%S
+  621  rm +\"%H:%M:%S\"
+  622  ls -la
+  623  rm 1date
+  624  rm 2date
+  625  rm 3date
+  626  ls -la
+  627  nano taskSlava.sh
+  628  ./taskSlava.sh
+  629  nano taskSlava.sh
+  630  ./taskSlava.sh
+  631  nano taskSlava.sh
+  632  ./taskSlava.sh
+  633  nano taskSlava.sh
+  634  ./taskSlava.sh
+  635  nano taskSlava.sh
+  636  ./taskSlava.sh
+  637  nano taskSlava.sh
+  638  ./taskSlava.sh
+  639  nano taskSlava.sh
+  640  ./taskSlava.sh
+  641  nano taskSlava.sh
+  642  ./taskSlava.sh
+  643  ls -la
+  644  nano taskSlava.sh
+  645  ./taskSlava.sh
+  646  ls -la
+  647  rm 1
+  648  rm 2
+  649  rm 3
+  650  ls -la
+  651  rm +\"%H:%M:%S\"
+  652  rm +%H:%M:%S\"
+  653  ls -la
+  654  rm 1"date
+  655  rm 1\"date
+  656  ls -la
+  657  rm 2\"date
+  658  rm 3\"date
+  659  ls -la
+  660  nano taskSlava.sh
+  661  ./taskSlava.sh
+  662  nano taskSlava.sh
+  663  ./taskSlava.sh
+  664  nano taskSlava.sh
+  665  ./taskSlava.sh
+  666  nano taskSlava.sh
+  667  ls -la
+  668  rm ${varDate}
+  669  rm \${varDate}
+  670  ls -la
+  671  ./taskSlava.sh
+  672  ls -la
+  673  rm date
+  674  rm +%H:%M:%S
+  675  ls -la
+  676  nano taskSlava.sh
+  677  ./taskSlava.sh
+  678  ls -la
+  679  rm 21:40:46
+  680  nano taskSlava.sh
+  681  ls -la
+  682  ./taskSlava.sh
+  683  ls -la
+  684  rm 1214258
+  685  rm 2214258
+  686  rm 3214258
+  687  ls -la
+  688  nano taskSlava.sh[B
+  689  exit
+  690  cd /opt/37_38_morning_b/Zhevaha
+  691  ls -la
+  692  rm taskSlava.sh
+  693  rm script.sh
+  694  nano output.txt
+  695  rm output.txt
+  696  cd /opt
+  697  ls
+  698  cd 37_38_morning_b
+  699  ls
+  700  cd Eni
+  701  cd EninAleksandr/
+  702  ls
+  703  nano taskAleksandr.sh 
+  704  chmod 744 taskAleksandr.sh 
+  705  ls
+  706  ./taskAleksandr.sh 
+  707  ls
+  708  rm 10084751 
+  709  rm 1084751 
+  710  rm 2084751 
+  711  rm 3084751 
+  712  rm 4084751 
+  713  rm 5084751 
+  714  rm 6084751 
+  715  tm
+  716  rm 7084751 
+  717  rm 8084751 
+  718  rm 90
+  719  rm 9084751 
+  720  ls
+  721  clear
+  722  cd /opt/37_38_morning_b/Zhevaha
+  723  export EDITOR=nano
+  724  crontab -l
+  725  crontab -e
+  726  crontab
+  727  ls
+  728  cd /o
+  729  cd /opt
+  730  pwd
+  731  ls
+  732  cd 37_38_morning_b/
+  733  ls
+  734  cd ..
+  735  ls
+  736  cd 37_38_morning_b
+  737  ls
+  738  cd EninAleksandr/
+  739  la
+  740  ls
+  741  touch taskAleksandr.sh
+  742  ls
+  743  crontab --help
+  744  crontab -l
+  745  cd /opt/37_38_morning_c/
+  746  cd olegbogdan
+  747  cd bogdanoleg
+  748  cd /opt/37_38_morning_c/
+  749  ls
+  750  ping 8.8.8.8
+  751  cat /var/mail/ec-2user
+  752  crontab -l
+  753  cd /opt
+  754  ls
+  755  cd 37_38_morning_c
+  756  ls
+  757  cd wheelyhog
+  758  ls
+  759  cat output.txt
+  760  cat script.sh
+  761  cat script.shls -la
+  762  ls -a
+  763  dir
+  764  cat script2.sh
+  765  cat output.txt
+  766  exit
+  767  cd /opt/37_38_morning_c?
+  768  cd /opt/37_38_morning_c/
+  769  mkdir antondudar
+  770  ls
+  771  echo -e '#!/bin/bash\n date\n echo "it works!"' >> /opt/37_38_morning_c/chumak/script2.sh
+  772  echo -e '#!/bin/bash\n date\n echo "it works!"' >> /opt/37_38_morning_c/antondudar/script2.sh
+  773  cd /antobdudar
+  774  antobdudar
+  775  chmod 744 opt/37_38_morning_c/antondudar/script2.sh
+  776  ls
+  777  cd ./antondudar/
+  778  chmod 744 script2.s
+  779  ls
+  780  chmod 744 script2.sh
+  781  cd /opt/37_38_morning_c/
+  782  ls
+  783  cd viacheslav
+  784  touch output.txt
+  785  ls
+  786  touch script2.sh
+  787  ls
+  788  echo -e '#!/bin/bash\n date\n echo "it works!"' >> /opt/37_38_morning_c/viacheslav/script2.sh
+  789  ls
+  790  chmod 744 script2.sh
+  791  ls
+  792  cd /opt
+  793  ls
+  794  cd 37_38_morning_b
+  795  ls
+  796  cd EninAleksandr/
+  797  ls
+  798  chmod 744 taskAleksandr.sh 
+  799  nano taskAleksandr.sh 
+  800  ls
+  801  crontab -e
+  802  ls
+  803  crontab -e
+  804  ls
+  805  cd /opt/chumak/
+  806  ls
+  807  vi 1.txt 
+  808  vi 111.txt 
+  809  cd /opt/old_opt/chumak/
+  810  vi tetris.sh 
+  811  ls -a
+  812  cd /opt/37_38_mornig_c/
+  813  ls
+  814  clear
+  815  cd /opt/37_38_morning_c
+  816  ls
+  817  cd konstantin
+  818  touch script2.sh output.txt
+  819  ls
+  820  echo -e '#!/bin/bash\n date\n echo "it works!"' >> /opt/37_38_morning_c/konstantin/script2.sh
+  821  chmod 744 script2.sh
+  822  ls
+  823  crontab -l
+  824  env
+  825  cd /opt
+  826  pwd
+  827  ls -l
+  828  cd 37_38_morning_c
+  829  ls
+  830  cd wheelyhog
+  831  ls
+  832  ls -l
+  833  touch script2.sh output.txt
+  834  echo -e '#!/bin/bash\n date\n echo "it works"'
+  835  echo -e '#!/bin/bash\n date\n echo "it works"' >> /opt/37_38_morning_c/wheelyhog/script2.sh
+  836  ls
+  837  chm
+  838  chmem chmod
+  839  chmod 744 script2.sh
+  840  ls
+  841  crontab -l
+  842  cd /opt/37_38_morning_c
+  843  mkdir vpkol
+  844  ls
+  845  cd vpkol
+  846  touch script2.sh output.txt
+  847  ls
+  848  echo -e '#!/bin/bash\n date\n echo "itworks!"'
+  849  echo -e '#!/bin/bash\n date\n echo "itworks!"'>>/opt/37_38_morning_c/vpkol/script2.sh
+  850  chmod 744 script2.sh
+  851  ls
+  852  ping 8.8.8.8
+  853  https://crontab.guru/
+  854  crontab -l
+  855  crontab --help
+  856  crontab -l
+  857  crontab -e
+  858  crontab -r
+  859  crontab -l
+  860  clear
+  861  crontab -l
+  862  crontab -e
+  863  env
+  864  cd /opt/37_38_morning_c/
+  865  ls
+  866  mkdir chumak
+  867  ls
+  868  chumak
+  869  cd chumak
+  870  touch script2.sh output.txt
+  871  echo -e '#!/bin/bash\n date\n echo "it works!"'
+  872  clear
+  873  echo -e '#!/bin/bash\n date\n echo "it works!"'
+  874  echo -e '#!/bin/bash\n date\n echo "it works!"' >> /opt/37_38_morning_c/chumak/script2.sh 
+  875  chmod 744 script2.sh 
+  876  ls
+  877  ping 8.8.8.8
+  878  clear
+  879  crontab -e
+  880  cat /var/mail/ec2-user 
+  881  cat /var/mail/ec2-user clear
+  882  clear
+  883  cat /opt/37_38_morning_c/chumak/output.txt 
+  884  nano /opt/37_38_morning_c/chumak/script2.sh 
+  885  crontab -l
+  886  cd /opt/37_38_morning_c/
+  887  ls
+  888  cd sergeyIvanov
+  889  touch script8.sh ouptup.txt
+  890  ls
+  891  echo -e '#!/bin/bash\n date\n echo "it works!"'
+  892  echo -e '#!/bin/bash\n date\n echo "it works!"' >> /opt/37_38_morning_c/sergeyIvanov/script8.sh
+  893  chmod 744 script8.sh
+  894  ls
+  895  ping 8.8.8.8
+  896  cat /var/mail/ec2-user
+  897  cat script8.sh
+  898  cat ouptup.txt
+  899  cd /opt/37_38_morning_c/
+  900  ls
+  901  lu_kot
+  902  cd lu_kot
+  903  ls
+  904  * /opt/37_38_morning_c/lu_kot/script2.sh >> /opt/37_38_morning_c/lu_kot/output.txt
+  905  cd * /opt/37_38_morning_c/chumak/script2.sh >> /opt/37_38_morning_c/chumak/output.txt
+  906  pwd
+  907  cd
+  908  cd /tmp
+  909  pwd
+  910  mkdir andreibakhtinov
+  911  pwd
+  912  cd andreibakhtinov
+  913  mkdir /tmp/remove-me-asap
+  914  mkdir -p /tmp/dir1/dir2/dir3
+  915  pwd
+  916  mkdir {dir1,dir2,dir3}
+  917  ls
+  918  mkdir dir1; mkdir dir2; mkdir dir3
+  919  cd /
+  920  mkdir dir1; mkdir dir2; mkdir dir3
+  921  cd /tmp/andreibakhtinov/
+  922  ls
+  923  ls -lah
+  924  ls
+  925  mkdir {d1,d2,d3}
+  926  ls
+  927  mkdir {d1,d2,d3}
+  928  ls
+  929  mv dir3 dir33
+  930  ls
+  931  mkdir /tmp/andreibakhtinov/dir44
+  932  pwd
+  933  mkdir dir55
+  934  cd dir55
+  935  pwd
+  936  touch test.txt
+  937  nano index.html
+  938  cat index.html 
+  939  nano style.css
+  940  cat style.css 
+  941  id
+  942  whoami
+  943  id
+  944  mkdir test_dir; cd test_dir; touch new.txt
+  945  cat ~/.ssh/id_rsa.pub 
+  946  crontab --l
+  947  crontab -l
+  948  env
+  949  cd /opt/37_38_morning_c/
+  950  ls
+  951  cd jelenaJakobson/
+  952  touch script2.sh  output.txt
+  953  ls
+  954  echo -e '#!/bin/bash\n date\n echo "it works!"'
+  955  echo -e '#!/bin/bash\n date\n echo "it works!"' >> /opt/37_38_morning_c/jelenaJakobson/script2.sh
+  956  chmod 744 script2.sh
+  957  ls
+  958  cd /opt
+  959  ls
+  960  cd 37_38_morning_b
+  961  ls
+  962  cd EninAleksandr/
+  963  ls
+  964  corntab -e
+  965  crontab -e
+  966  cd /opt/37_38_morning_b/Zhevaha
+  967  crontab -l
+  968  ls -la
+  969  echo -e '#!/bin/bash\ntouch test.txt' >> script.sh
+  970  chmod 744 script.sh
+  971  ls -la
+  972  nano script.sh
+  973  crontab -l
+  974  exit
+  975  cd /opt/37_38_morning_b/Zhevaha
+  976  echo -e '#!/bin/bash\nfor loop in {1..10}\ndo\nvarDate=$(date +%H%M%S)\ntouch ${loop}${varDate}\ndone' >> taskZhevaha.sh
+  977  chmod taskZhevaha.sh
+  978  chmod 744 taskZhevaha.sh
+  979  ls -la
+  980  nano script.sh
+  981  mkdir folder
+  982  ls -la
+  983  nano script.sh
+  984  ./script.sh
+  985  nano script.sh
+  986  ./script.sh
+  987  cd folder
+  988  ls
+  989  rm test.txt
+  990  ls
+  991  cd ..
+  992  crontab -e
+  993  nano taskZhevaha.sh
+  994  cd homeworks
+  995  ls
+  996  exit
+  997  cd /opt/37_38_morning_b/Zhevaha/homeworks
+  998  mkdir hw_26_10
+  999  cd hw_26_10
+ 1000  echo -e '#!/bin/bash\nfor loop in {1..10}\ndo\nvarDate=$(date +%H%M%S)\ntouch ${loop}${varDate}\ndone' >> taskZhevaha.sh
+ 1001  chmod 744 taskZhevaha.sh
+ 1002  ls -la
+ 1003  export EDITOR=nano
+ 1004  crontab -e
+ 1005  ls -la
+ 1006  crontab -l
+ 1007  ls -la
+ 1008  history >> history.txt
